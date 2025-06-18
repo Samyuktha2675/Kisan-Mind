@@ -59,7 +59,7 @@ KisanMind is more than just a farming app — it's your **agriculture companion*
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/KisanMind.git
+git clone [https://github.com/Samyuktha2675/Kisan-Mind.git](https://github.com/Samyuktha2675/Kisan-Mind.git)
 cd KisanMind
 
 # Step 2: Create a virtual environment
